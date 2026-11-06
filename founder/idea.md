@@ -3,8 +3,8 @@
 - What it is: a body-worn camera with an app that lets a family member see live video from the wearer and talk with them both ways, with SOS and GPS, for people who may need help.
 - Who it is for: families caring for a vulnerable person: children with intellectual disabilities or special needs, elderly relatives (e.g. with dementia), or any loved one. The buyer is the caregiver/family member; the wearer is the vulnerable person. Later: hospital staff, nursing homes, rescuers.
 - What it sells, at what price: the TODO device at $200–$300. A subscription may be added later.
-- Where and how: market and sales channel not yet decided. Device plus a companion app that connects wearer and caregiver.
-- Budget and constraints: budget not given. Manufacturing approach not given.
+- Where and how: launch in the United States, sold online. Sales channel not yet decided. Device plus a companion app that connects wearer and caregiver.
+- Budget and constraints: $10,000 starting budget; founder may need to raise more. No prototype yet. Unit cost unknown: estimate from comparable devices and mark it as an estimate.
 
 ## Features
 - One-way camera: video goes from wearer to the caregiver's app.

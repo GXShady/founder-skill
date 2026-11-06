@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already pay for AngelSense and it has never failed me on GPS or the SOS button. A video camera sounds nice, but I need to know it will actually connect when Mom is confused and wandering two hours away, and I can't find out from a flyer. I'm not paying $249 plus another $20 a month on a promise.",
+  "objection": "Will the video actually connect in a real emergency, or will it freeze or drop when I need it most and the cell signal is bad?",
+  "would_change_my_mind": "A free or refundable trial where I can test a live video call with Mom from two hours away, with a clear answer on what happens when the signal is weak.",
+  "price_too_cheap": 79,
+  "price_cheap": 149,
+  "price_expensive": 329,
+  "price_too_expensive": 420
+}

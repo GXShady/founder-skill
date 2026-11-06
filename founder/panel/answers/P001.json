@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I already have an AirTag and it does the 'where is he' part for almost nothing. $249 plus $20 a month for video I'd rarely open is a lot to pay for something I'm not sure we'd use every day.",
+  "objection": "An AirTag or a kids' watch does most of this for much less, and I'd have to pay a monthly fee forever just to keep the live video working.",
+  "would_change_my_mind": "A free trial or a month-to-month option with no monthly plan required, plus proof that the live video and SOS alert really work from a wandering-prone wearer's device without a long setup.",
+  "price_too_cheap": 40,
+  "price_cheap": 99,
+  "price_expensive": 169,
+  "price_too_expensive": 199
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "The idea of a camera on my brother-in-law all day makes my stomach turn, and the privacy and dignity questions would take me weeks to work through. I would need to trust the company and understand exactly who can see the video before I put a device on him.",
+  "objection": "Live video of a vulnerable adult, even for safety, feels like surveillance. Who can watch it, where it is stored, and how it respects his dignity and the privacy of people around him are not answered by this offer.",
+  "would_change_my_mind": "A clear written policy showing video is only viewed when there is a real alert, plus a setup I could finish in under ten minutes with no tech help.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 300,
+  "price_too_expensive": 450
+}

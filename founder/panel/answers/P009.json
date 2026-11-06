@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already charge my AngelSense every night and it works, so this has to beat something I trust. I research for weeks in my support groups, and I have never heard of TODO, and the pitch shows no reviews or any parent who uses it.",
+  "objection": "Battery life: live video will drain a tracker faster than my current one, and a camera on someone with dementia who pulls things off will just end up in a drawer.",
+  "would_change_my_mind": "Independent reviews from caregivers who have used it for months, showing the battery lasts a full day with live video on and the device survives a dementia patient pulling at it.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 290,
+  "price_too_expensive": 400
+}

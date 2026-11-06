@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "After the wandering scare I'm not waiting around for a perfect product. Live video and GPS on him would let me find him fast, and $249 is less than one night of a home-care aide.",
+  "objection": "My father will take one look at a camera clipped to him and refuse to wear it. Then I've paid $249 and the monthly fee for a box in a drawer, and I still have to watch him wander.",
+  "would_change_my_mind": "Proof it can be worn in something he already wears, like a jacket pocket or shoe insert, so he never sees a medical device.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "A live camera on my mom feels like watching her every minute, and she would hate it, even with privacy mode. I would also be recording strangers and other people's kids in the background, which I am not comfortable with.",
+  "objection": "Whether putting a camera on a person with dementia respects her dignity and consent, when she may not understand she is being filmed.",
+  "would_change_my_mind": "A GPS-only mode with no camera, with wandering alerts and a clear rule that video is never on unless a caregiver is responding to an SOS.",
+  "price_too_cheap": 40,
+  "price_cheap": 120,
+  "price_expensive": 200,
+  "price_too_expensive": 300
+}
