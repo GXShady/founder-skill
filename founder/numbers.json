@@ -1,0 +1,31 @@
+{
+  "business": "TODO body-worn caregiver camera (white-label 4G device + app), US online",
+  "unit": "device sold",
+  "price": 249,
+  "variable": [
+    {"label": "Device from OEM factory, branded (ESTIMATE; 4G GPS 2-way-audio body cams listed ~$120-130 wholesale)", "cost": 125},
+    {"label": "Freight + US import duty (ESTIMATE)", "cost": 12},
+    {"label": "Retail box, strap/clip/lanyard kit (ESTIMATE)", "cost": 6},
+    {"label": "Outbound shipping to customer (ESTIMATE)", "cost": 9},
+    {"label": "Card fees (2.9% + $0.30)", "cost": 7.52},
+    {"label": "Returns + warranty reserve, 6% of price (ESTIMATE)", "cost": 14.94},
+    {"label": "Paid ads per sale (ESTIMATE; unknown until tested)", "cost": 60}
+  ],
+  "fixed_monthly": [
+    {"label": "App backend, video relay + cloud (ESTIMATE)", "cost": 300},
+    {"label": "Online store + tools (ESTIMATE)", "cost": 100},
+    {"label": "Product liability insurance (ESTIMATE)", "cost": 150}
+  ],
+  "startup": [
+    {"label": "Samples from 3-4 factories + testing (ESTIMATE)", "cost": 600},
+    {"label": "First inventory: 50 units x $125 (ESTIMATE)", "cost": 6250},
+    {"label": "White-label app branding/customisation (ESTIMATE)", "cost": 2000},
+    {"label": "Brand, packaging design, website (ESTIMATE)", "cost": 800},
+    {"label": "LLC, privacy policy, terms (ESTIMATE)", "cost": 500},
+    {"label": "Launch ads (ESTIMATE)", "cost": 1000}
+  ],
+  "days_per_month": 30,
+  "capacity_per_day": 5,
+  "plan_per_day": 1,
+  "ramp_per_day": [0.1, 0.15, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.0]
+}
