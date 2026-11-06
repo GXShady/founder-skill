@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "An AirTag or a kids' watch does most of what this does for a fraction of the money. On top of the therapy and medication I already pay for, another $20 a month for a data plan is hard to justify, and I'd want to know a live camera is worth paying that every month.",
+  "objection": "I can't tell if the live video and talk feature is something I'd use often enough to justify $249 plus $240 a year, when a $29 tracker already shows me where he is.",
+  "would_change_my_mind": "A free trial or a month-to-month plan I could cancel, plus proof from other parents of autistic kids that the live view actually helped them find a wandering child quickly.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 150,
+  "price_too_expensive": 200
+}

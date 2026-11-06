@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already pay AngelSense every month and I know what that costs me. This asks for $249 up front plus $19.99 a month on top, and I have no reason yet to believe the live video will connect when Dad is wandering at 2 a.m. I would want to see it work before I sign anything.",
+  "objection": "Will the video actually connect in a real emergency? If I press the button and it spins, or the signal drops in a parking garage, I have paid for a camera that failed me.",
+  "would_change_my_mind": "A free trial or a money-back window where I can test live video and SOS on Dad's own walks, plus a clear answer on how it works where cell coverage is weak.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 210,
+  "price_too_expensive": 280
+}

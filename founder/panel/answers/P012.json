@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I'd want to know this camera is safe and not spying before I strap it on my kid or my dad. I'd spend weeks in the caregiver groups reading what real families say about it before I'd even consider the $249.",
+  "objection": "A camera on someone who can't consent feels like surveillance. What about their dignity, and the privacy of the other people who get filmed when it's on?",
+  "would_change_my_mind": "Caregiver groups and independent reviews showing it has actually found a wandering loved one quickly, plus a clear way to switch the camera off that keeps the GPS and SOS working.",
+  "price_too_cheap": 80,
+  "price_cheap": 150,
+  "price_expensive": 260,
+  "price_too_expensive": 350
+}

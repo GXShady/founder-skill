@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I already pay a monthly fee for AngelSense and I'm watching every dollar. A $249 camera plus $19.99 a month for live video is another bill on top of the one I have, and I'd need to be sure it does more than what I've got before I switch or add it.",
+  "objection": "Another monthly fee on top of everything else. I don't yet know whether this replaces my tracker or sits next to it, and paying for both is not something I can afford.",
+  "would_change_my_mind": "A clear side-by-side showing it does what my current tracker does for less money, or a trial month where I can cancel with no device lock-in.",
+  "price_too_cheap": 60,
+  "price_cheap": 129,
+  "price_expensive": 219,
+  "price_too_expensive": 299
+}
