@@ -66,3 +66,10 @@ Built from `panel-v1/results.md` (2/20 bought), `competitors.md` and `board.md`.
 
 ## 5. Re-test
 Same customer, same seed (732778), new pitch. Results below.
+
+**Result: 2 buy (10%) → 4 buy (20%)**, same 20 simulated buyers, same seed. Full results: `panel/results.md` (v1 in `panel-v1/`).
+- **Trust** passes: 11 → 9. The refund helps, but "I've never heard of TODO" survives every offer. **Only real families using it fixes this**, which means a pilot plus published reviews (`/founder-launch`).
+- **Values** passes: 3 → 4. For some dementia caregivers, *any* camera is a no, even SOS-only. They ask for a **GPS + SOS version with no camera**. Consider a cheaper camera-free SKU, or treat these buyers as not TODO's market.
+- **Price** passes: 4 → 3. The objection now is "a second monthly bill on top of AngelSense", so the switch credit matters.
+- New buyers came from the "already uses a tracker" and "crisis" groups, which suggests the refund, spare battery and harness answered their concerns.
+- One buyer said the name "TODO" reads as unfinished (P017). Flag for `/founder-brand`.
