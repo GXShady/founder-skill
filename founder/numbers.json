@@ -1,24 +1,27 @@
 {
-  "business": "TODO body-worn caregiver camera (white-label 4G device + app), US online",
-  "unit": "device sold",
-  "price": 249,
+  "business": "TODO Safe Return Kit (white-label 4G body camera + app), US online",
+  "unit": "new customer (device + first-year plan)",
+  "price": 478.66,
   "variable": [
-    {"label": "Device from OEM factory, branded (ESTIMATE; 4G GPS 2-way-audio body cams listed ~$120-130 wholesale)", "cost": 125},
+    {"label": "Plan revenue counted in price: 9.19 avg paid months x $24.99 (5%/mo cancel, ESTIMATE); device $249", "cost": 0},
+    {"label": "Device from OEM factory, branded (ESTIMATE)", "cost": 125},
     {"label": "Freight + US import duty (ESTIMATE)", "cost": 12},
-    {"label": "Retail box, strap/clip/lanyard kit (ESTIMATE)", "cost": 6},
-    {"label": "Outbound shipping to customer (ESTIMATE)", "cost": 9},
-    {"label": "Card fees (2.9% + $0.30)", "cost": 7.52},
-    {"label": "Returns + warranty reserve, 6% of price (ESTIMATE)", "cost": 14.94},
-    {"label": "Paid ads per sale (ESTIMATE; unknown until tested)", "cost": 60}
+    {"label": "Box + wear kit incl. locking harness (ESTIMATE)", "cost": 10},
+    {"label": "Spare battery pack (ESTIMATE)", "cost": 8},
+    {"label": "Outbound shipping (ESTIMATE)", "cost": 9},
+    {"label": "Card fees: 2.9% + $0.30 x 10 charges", "cost": 16.88},
+    {"label": "Mobile data + video relay: 9.19 months x $10 (ESTIMATE)", "cost": 91.90},
+    {"label": "30-day refund + warranty reserve (ESTIMATE: 10% return, ~$150 loss each)", "cost": 15},
+    {"label": "Paid ads per customer (ESTIMATE; unknown until tested)", "cost": 60}
   ],
   "fixed_monthly": [
-    {"label": "App backend, video relay + cloud (ESTIMATE)", "cost": 300},
+    {"label": "App backend + cloud (ESTIMATE)", "cost": 300},
     {"label": "Online store + tools (ESTIMATE)", "cost": 100},
     {"label": "Product liability insurance (ESTIMATE)", "cost": 150}
   ],
   "startup": [
     {"label": "Samples from 3-4 factories + testing (ESTIMATE)", "cost": 600},
-    {"label": "First inventory: 50 units x $125 (ESTIMATE)", "cost": 6250},
+    {"label": "First inventory: 50 kits x $155 (device, freight, kit, battery) (ESTIMATE)", "cost": 7750},
     {"label": "White-label app branding/customisation (ESTIMATE)", "cost": 2000},
     {"label": "Brand, packaging design, website (ESTIMATE)", "cost": 800},
     {"label": "LLC, privacy policy, terms (ESTIMATE)", "cost": 500},
