@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Pablo",
+  "age": 31,
+  "segment": "Spouse or relative of an adult with a disability who wants independence with a safety net",
+  "income": 87000,
+  "behaviour": "Low-tech",
+  "behaviour_how": "Wants something that works out of the box; gives up if setup takes more than a few minutes.",
+  "objection": "An AirTag or a kids' watch does most of this for much less",
+  "habit": "you are in a Facebook group for parents of autistic kids"
+ },
+ {
+  "id": "P002",
+  "name": "Esme",
+  "age": 37,
+  "segment": "Adult child caring for a parent with dementia, living nearby or long-distance",
+  "income": 159000,
+  "behaviour": "Privacy-minded",
+  "behaviour_how": "Worries about dignity and consent, and does not want their loved one to feel watched.",
+  "objection": "An AirTag or a kids' watch does most of this for much less",
+  "habit": "you live two hours from your mother, who has early-stage Alzheimer's"
+ },
+ {
+  "id": "P003",
+  "name": "June",
+  "age": 37,
+  "segment": "Parent of a child with autism or intellectual disability (wanders or is non-verbal)",
+  "income": 79000,
+  "behaviour": "Low-tech",
+  "behaviour_how": "Wants something that works out of the box; gives up if setup takes more than a few minutes.",
+  "objection": "Is this a new brand I can trust when it really matters?",
+  "habit": "you work full time and coordinate care by phone"
+ },
+ {
+  "id": "P004",
+  "name": "Farah",
+  "age": 30,
+  "segment": "Adult child caring for a parent with dementia, living nearby or long-distance",
+  "income": 121000,
+  "behaviour": "Privacy-minded",
+  "behaviour_how": "Worries about dignity and consent, and does not want their loved one to feel watched.",
+  "objection": "A camera on my loved one feels like surveillance; what about their dignity and other people's privacy?",
+  "habit": "you are in a Facebook group for parents of autistic kids"
+ },
+ {
+  "id": "P005",
+  "name": "Elle",
+  "age": 55,
+  "segment": "Adult child caring for a parent with dementia, living nearby or long-distance",
+  "income": 102000,
+  "behaviour": "Already uses a tracker",
+  "behaviour_how": "Pays monthly for AngelSense, a medical alert pendant or a kids' watch today and compares everything to it.",
+  "objection": "Will the video actually connect in a real emergency?",
+  "habit": "you live two hours from your mother, who has early-stage Alzheimer's"
+ },
+ {
+  "id": "P006",
+  "name": "Oscar",
+  "age": 44,
+  "segment": "Spouse or relative of an adult with a disability who wants independence with a safety net",
+  "income": 99000,
+  "behaviour": "Low-tech",
+  "behaviour_how": "Wants something that works out of the box; gives up if setup takes more than a few minutes.",
+  "objection": "A camera on my loved one feels like surveillance; what about their dignity and other people's privacy?",
+  "habit": "you are in a Facebook group for parents of autistic kids"
+ },
+ {
+  "id": "P007",
+  "name": "Beatriz",
+  "age": 40,
+  "segment": "Parent of a child with autism or intellectual disability (wanders or is non-verbal)",
+  "income": 110000,
+  "behaviour": "Tight budget",
+  "behaviour_how": "Already pays for therapy, care or medication; every monthly fee is weighed hard.",
+  "objection": "Is this a new brand I can trust when it really matters?",
+  "habit": "your child once got out of the house and police found them two streets away"
+ },
+ {
+  "id": "P008",
+  "name": "Hana",
+  "age": 49,
+  "segment": "Adult child caring for a parent with dementia, living nearby or long-distance",
+  "income": 127000,
+  "behaviour": "Crisis buyer",
+  "behaviour_how": "Recently had a scare (a wandering incident, a fall, police called) and wants something now.",
+  "objection": "Another monthly fee on top of everything else",
+  "habit": "your father refuses anything that looks like a medical device"
+ },
+ {
+  "id": "P009",
+  "name": "Ruby",
+  "age": 51,
+  "segment": "Adult child caring for a parent with dementia, living nearby or long-distance",
+  "income": 147000,
+  "behaviour": "Researches for weeks",
+  "behaviour_how": "Reads Facebook support groups, Reddit and reviews before buying anything for their loved one.",
+  "objection": "Battery life: I already charge AngelSense every night and live video will be worse",
+  "habit": "you check a location app several times a day"
+ },
+ {
+  "id": "P010",
+  "name": "Ada",
+  "age": 37,
+  "segment": "Adult child caring for a parent with dementia, living nearby or long-distance",
+  "income": 111000,
+  "behaviour": "Crisis buyer",
+  "behaviour_how": "Recently had a scare (a wandering incident, a fall, police called) and wants something now.",
+  "objection": "Will the video actually connect in a real emergency?",
+  "habit": "you are in a Facebook group for parents of autistic kids"
+ },
+ {
+  "id": "P011",
+  "name": "Jordan",
+  "age": 51,
+  "segment": "Parent of a child with autism or intellectual disability (wanders or is non-verbal)",
+  "income": 72000,
+  "behaviour": "Researches for weeks",
+  "behaviour_how": "Reads Facebook support groups, Reddit and reviews before buying anything for their loved one.",
+  "objection": "Another monthly fee on top of everything else",
+  "habit": "you live two hours from your mother, who has early-stage Alzheimer's"
+ },
+ {
+  "id": "P012",
+  "name": "Zoe",
+  "age": 57,
+  "segment": "Parent of a child with autism or intellectual disability (wanders or is non-verbal)",
+  "income": 97000,
+  "behaviour": "Researches for weeks",
+  "behaviour_how": "Reads Facebook support groups, Reddit and reviews before buying anything for their loved one.",
+  "objection": "A camera on my loved one feels like surveillance; what about their dignity and other people's privacy?",
+  "habit": "your father refuses anything that looks like a medical device"
+ },
+ {
+  "id": "P013",
+  "name": "Selin",
+  "age": 56,
+  "segment": "Spouse or relative of an adult with a disability who wants independence with a safety net",
+  "income": 69000,
+  "behaviour": "Researches for weeks",
+  "behaviour_how": "Reads Facebook support groups, Reddit and reviews before buying anything for their loved one.",
+  "objection": "They will just pull it off or refuse to wear it",
+  "habit": "you live two hours from your mother, who has early-stage Alzheimer's"
+ },
+ {
+  "id": "P014",
+  "name": "Adrian",
+  "age": 55,
+  "segment": "Parent of a child with autism or intellectual disability (wanders or is non-verbal)",
+  "income": 125000,
+  "behaviour": "Privacy-minded",
+  "behaviour_how": "Worries about dignity and consent, and does not want their loved one to feel watched.",
+  "objection": "An AirTag or a kids' watch does most of this for much less",
+  "habit": "your child once got out of the house and police found them two streets away"
+ },
+ {
+  "id": "P015",
+  "name": "Noor",
+  "age": 37,
+  "segment": "Adult child caring for a parent with dementia, living nearby or long-distance",
+  "income": 54000,
+  "behaviour": "Already uses a tracker",
+  "behaviour_how": "Pays monthly for AngelSense, a medical alert pendant or a kids' watch today and compares everything to it.",
+  "objection": "Will the video actually connect in a real emergency?",
+  "habit": "you are in a Facebook group for parents of autistic kids"
+ },
+ {
+  "id": "P016",
+  "name": "Aisha",
+  "age": 48,
+  "segment": "Parent of a child with autism or intellectual disability (wanders or is non-verbal)",
+  "income": 68000,
+  "behaviour": "Crisis buyer",
+  "behaviour_how": "Recently had a scare (a wandering incident, a fall, police called) and wants something now.",
+  "objection": "Another monthly fee on top of everything else",
+  "habit": "you live two hours from your mother, who has early-stage Alzheimer's"
+ },
+ {
+  "id": "P017",
+  "name": "Daniel",
+  "age": 62,
+  "segment": "Adult child caring for a parent with dementia, living nearby or long-distance",
+  "income": 101000,
+  "behaviour": "Already uses a tracker",
+  "behaviour_how": "Pays monthly for AngelSense, a medical alert pendant or a kids' watch today and compares everything to it.",
+  "objection": "Another monthly fee on top of everything else",
+  "habit": "you are in a Facebook group for parents of autistic kids"
+ },
+ {
+  "id": "P018",
+  "name": "Felix",
+  "age": 34,
+  "segment": "Parent of a child with autism or intellectual disability (wanders or is non-verbal)",
+  "income": 71000,
+  "behaviour": "Already uses a tracker",
+  "behaviour_how": "Pays monthly for AngelSense, a medical alert pendant or a kids' watch today and compares everything to it.",
+  "objection": "They will just pull it off or refuse to wear it",
+  "habit": "you live two hours from your mother, who has early-stage Alzheimer's"
+ },
+ {
+  "id": "P019",
+  "name": "Leah",
+  "age": 52,
+  "segment": "Parent of a child with autism or intellectual disability (wanders or is non-verbal)",
+  "income": 58000,
+  "behaviour": "Tight budget",
+  "behaviour_how": "Already pays for therapy, care or medication; every monthly fee is weighed hard.",
+  "objection": "Is this a new brand I can trust when it really matters?",
+  "habit": "you work full time and coordinate care by phone"
+ },
+ {
+  "id": "P020",
+  "name": "Sara",
+  "age": 56,
+  "segment": "Parent of a child with autism or intellectual disability (wanders or is non-verbal)",
+  "income": 66000,
+  "behaviour": "Tight budget",
+  "behaviour_how": "Already pays for therapy, care or medication; every monthly fee is weighed hard.",
+  "objection": "An AirTag or a kids' watch does most of this for much less",
+  "habit": "you are in a Facebook group for parents of autistic kids"
+ }
+]

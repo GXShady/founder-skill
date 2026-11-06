@@ -1,0 +1,89 @@
+{
+ "n": 20,
+ "seed": 732778,
+ "customer": {
+  "business": "TODO, a body-worn camera with a caregiver app: live video from the wearer, two-way voice, SOS and GPS",
+  "target": "US family caregivers of a vulnerable person: parents of a child with autism or an intellectual disability who may wander, and adult children caring for a parent with dementia",
+  "where": "United States, bought online",
+  "age": [
+   30,
+   62
+  ],
+  "segments": [
+   {
+    "name": "Parent of a child with autism or intellectual disability (wanders or is non-verbal)",
+    "share": 0.45,
+    "income": [
+     40000,
+     140000
+    ]
+   },
+   {
+    "name": "Adult child caring for a parent with dementia, living nearby or long-distance",
+    "share": 0.4,
+    "income": [
+     50000,
+     160000
+    ]
+   },
+   {
+    "name": "Spouse or relative of an adult with a disability who wants independence with a safety net",
+    "share": 0.15,
+    "income": [
+     35000,
+     110000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Already uses a tracker",
+    "share": 0.2,
+    "how": "Pays monthly for AngelSense, a medical alert pendant or a kids' watch today and compares everything to it."
+   },
+   {
+    "name": "Researches for weeks",
+    "share": 0.2,
+    "how": "Reads Facebook support groups, Reddit and reviews before buying anything for their loved one."
+   },
+   {
+    "name": "Crisis buyer",
+    "share": 0.15,
+    "how": "Recently had a scare (a wandering incident, a fall, police called) and wants something now."
+   },
+   {
+    "name": "Tight budget",
+    "share": 0.15,
+    "how": "Already pays for therapy, care or medication; every monthly fee is weighed hard."
+   },
+   {
+    "name": "Privacy-minded",
+    "share": 0.15,
+    "how": "Worries about dignity and consent, and does not want their loved one to feel watched."
+   },
+   {
+    "name": "Low-tech",
+    "share": 0.15,
+    "how": "Wants something that works out of the box; gives up if setup takes more than a few minutes."
+   }
+  ],
+  "objections": [
+   "They will just pull it off or refuse to wear it",
+   "Battery life: I already charge AngelSense every night and live video will be worse",
+   "Another monthly fee on top of everything else",
+   "A camera on my loved one feels like surveillance; what about their dignity and other people's privacy?",
+   "Is this a new brand I can trust when it really matters?",
+   "An AirTag or a kids' watch does most of this for much less",
+   "Will the video actually connect in a real emergency?"
+  ],
+  "habits": [
+   "you are in a Facebook group for parents of autistic kids",
+   "your child once got out of the house and police found them two streets away",
+   "you live two hours from your mother, who has early-stage Alzheimer's",
+   "you check a location app several times a day",
+   "your father refuses anything that looks like a medical device",
+   "you work full time and coordinate care by phone"
+  ]
+ },
+ "pitch": "**TODO: see, hear and find your loved one when they need you.**\n\nA small camera your child, parent or loved one wears (clip, lanyard, armband or chest strap). From the TODO app on your phone you can open a live video view from their camera, talk with them both ways, see their GPS location, and get an alert when they press the SOS button.\nFor adults who don't need supervision, privacy mode means video is shared only when the wearer chooses.\nPrice: $249 for the device, plus $19.99/month for the mobile data plan that powers live video, voice and GPS. Ships in the US; order online."
+}
