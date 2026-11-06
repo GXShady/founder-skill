@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "The idea of a camera on my mum, who has dementia and doesn't know she's being filmed, makes my stomach turn, even if it only switches on for an SOS. Wandering scares me enough that I'd want something, but I'd rather use a GPS-only tracker that never films her.",
+  "objection": "Whether the camera really stays off, and who else can see what gets recorded. A log of who viewed the video doesn't undo the feeling that she's being watched without her consent.",
+  "would_change_my_mind": "A version with GPS and the SOS button but no camera, or a written, independent check that the camera can never be turned on without her or the family agreeing to it.",
+  "price_too_cheap": 60,
+  "price_cheap": 149,
+  "price_expensive": 249,
+  "price_too_expensive": 349
+}

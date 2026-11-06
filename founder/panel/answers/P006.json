@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "A camera on my brother-in-law all day feels like surveillance, and it would film the people around him who never agreed to it. I would not put a camera on him before I had talked it through with his family and with him.",
+  "objection": "Who is watching the video, when, and can he say no? The log of every viewing helps, but it still means someone can look through his eyes, and the idea makes me uneasy about his dignity.",
+  "would_change_my_mind": "A GPS-and-SOS version with no camera, or a camera that only turns on when he presses the button and the family agrees to it in writing, plus a trial where I can see it work in our house first.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 300,
+  "price_too_expensive": 450
+}

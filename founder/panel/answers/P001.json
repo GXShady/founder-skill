@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "An AirTag or a kids' watch does most of what this does for a fraction of the money, and $249 plus $25 a month is a lot to pay for a camera I'm not sure my brother would keep on. I'd buy the cheap thing first and see if it's enough.",
+  "objection": "Will it actually connect at the moment it matters, and will he keep it on? A camera on someone who doesn't want it is a fight every morning, and I don't have time for that.",
+  "would_change_my_mind": "A parent in the group who has used it through a real wandering episode and tells me it connected within a minute and the wearer kept it on for weeks.",
+  "price_too_cheap": 35,
+  "price_cheap": 90,
+  "price_expensive": 150,
+  "price_too_expensive": 200
+}

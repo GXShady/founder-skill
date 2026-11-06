@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already pay for AngelSense every month and it works, so this would be a second bill for something I have to trust in a real emergency. The 30-day refund helps, but I would have to test the video call on a real walk before I'd put my mother's safety on it, and a camera that stays off until SOS does not solve the problem I actually have.",
+  "objection": "Will the video actually connect in a real emergency, and will my mother keep it on and not pull it off?",
+  "would_change_my_mind": "A test video connection that works reliably from two hours away, during a real walk, with a harness she cannot take off, and a clear answer on what happens to my existing tracker.",
+  "price_too_cheap": 60,
+  "price_cheap": 149,
+  "price_expensive": 199,
+  "price_too_expensive": 299
+}
