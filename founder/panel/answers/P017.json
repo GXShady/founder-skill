@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I already pay for AngelSense every month and I'd be stacking a second monthly bill on top of it for something that does the same core job. I can't justify two trackers when the money's already tight with Mom's care costs.",
+  "objection": "Why would I pay $249 plus $24.99 a month for a company I've never heard of, with a camera on my mom, when the tracker I trust already does the GPS and SOS part? The name even says TODO, so it feels unfinished.",
+  "would_change_my_mind": "If it replaced my current tracker and cost less per month than what I pay now, with a proven record from families in my Facebook group.",
+  "price_too_cheap": 79,
+  "price_cheap": 149,
+  "price_expensive": 219,
+  "price_too_expensive": 299
+}

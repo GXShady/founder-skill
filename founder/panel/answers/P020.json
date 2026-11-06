@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I already pay for therapy and medication and every monthly fee gets weighed hard. An AirTag or a kids' watch covers most of what this does for a fraction of the money, and $249 plus $25 a month is more than I can justify for a safety line I may never use.",
+  "objection": "Would it really connect the moment he runs, or is it another gadget that fails when I need it most? I cannot afford to find out after the trial.",
+  "would_change_my_mind": "Proof from a family with a wandering child that the SOS and the location updates work reliably in the places he actually goes, plus a lower device price or a plan I can pause.",
+  "price_too_cheap": 40,
+  "price_cheap": 129,
+  "price_expensive": 199,
+  "price_too_expensive": 225
+}

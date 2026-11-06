@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "My mom wanders at night and I already pay for a tracker, so a camera I can actually look through in an emergency is the thing I've been wishing for. I'd try it, but only because the 30-day refund means I'm not stuck if it fails.",
+  "objection": "Will the video actually connect in a real emergency? If it drops out when she's three blocks away in a parking lot with bad signal, the camera is useless and I've paid $249 for a fancier pendant.",
+  "would_change_my_mind": "Seeing a real connection test done on a phone with weak signal, or hearing from a family like mine that the SOS video came through when it mattered.",
+  "price_too_cheap": 79,
+  "price_cheap": 149,
+  "price_expensive": 249,
+  "price_too_expensive": 349
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I don't know this brand and it's a camera on my son and a monthly fee on top of the therapy I already pay for. I'd need to see it work on a real bad day before I put that money down.",
+  "objection": "Will it actually connect and send the SOS when he's wandering off in a store or at the park, or will it fail right when I need it most?",
+  "would_change_my_mind": "A parent I know and trust, or a support group I'm in, telling me it worked for their wanderer on a real outing.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 200,
+  "price_too_expensive": 250
+}
